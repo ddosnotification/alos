@@ -1,7 +1,7 @@
 
 **Terms of Service**
 
-Last updated: October 22th, 2024
+Last updated: November 9th, 2024
 Account
 
 By registering an account on our platform, you agree to keep your login credentials secure and accept full responsibility for all activities conducted through your account. We may review new accounts before granting access to our services but are not obligated to do so. You must be 18 years or older to use our services. If you are aged 13 to 17, you may only use our services with the consent of a parent or guardian. Misrepresentation of age or attempts to bypass our security measures are strictly prohibited. We are not liable for any false age representations, and we assume all account holders either meet the age requirements or have received necessary permissions.
@@ -22,10 +22,10 @@ We may offer special promotional rates or deals, but you cannot switch services 
 In cases where a purchase appears fraudulent, we may request additional verification, such as a valid photo ID or a recent bank statement. If you dispute a charge, your services will be suspended immediately, and no refund will be issued unless the matter is resolved through our official support channels.
 Refunds
 
-Refunds may be requested within six (6) hours of the purchase time, provided there is a legitimate reason. ALOS Shield reserves the right to deny any refund request deemed inappropriate. Refund requests made through any medium other than our official support system will not be considered.
+Refunds may be requested within six (6) hours of the purchase time, provided there is a legitimate reason. ALOS reserves the right to deny any refund request deemed inappropriate. Refund requests made through any medium other than our official support system will not be considered.
 Acceptable Use
 
-All clients must comply with ALOS Shield’s acceptable use policies. Violations of these policies may result in the suspension or termination of services. Prohibited activities include, but are not limited to:
+All clients must comply with ALOS’s acceptable use policies. Violations of these policies may result in the suspension or termination of services. Prohibited activities include, but are not limited to:
 
 - Denial of Service (DoS) attacks
 - Distributed Denial of Service (DDoS) attacks
