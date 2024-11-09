@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Last updated: October 22th, 2024
+Last updated: November 9th, 2024
 
 At ALOS, we take your privacy seriously. This Privacy Policy outlines how we collect, use, store, and protect your personal information in accordance with the Australian Privacy Act 1988.
 Information We Collect
